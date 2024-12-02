@@ -5,6 +5,7 @@ This research assess the distribution of tree canopy cover by land use (single-f
 Stuhlmacher, M., Williams, D., Impellizeri, C., and Curran, W. (In Press). “Bridging the land use gap: Examining tree canopy cover and connectivity by land use in 10 U.S. Cities”. Urban Forestry and Urban Greening. https://doi.org/10.1016/j.ufug.2024.128626
 
 ## Methdology Diagram:
+![alt text](WorkflowDiagram.PNG "Methodology Diagram")
 
 # Software Requirements:
 R version 4.2.1
